@@ -50,10 +50,8 @@ a:hover{
 	color: white;
 	background-color: #483a94;
  }
- 
-.description{
-	color: red;
-}
+
+
  footer{
  	background-color: #151B4E;
 	text-align: center;
@@ -77,4 +75,7 @@ a:hover{
  	font-style: italic;
  	margin-top: 0;
  }
- 	
+ 
+ p.description{
+	color: red;
+}
